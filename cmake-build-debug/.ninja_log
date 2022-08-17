@@ -1,0 +1,6 @@
+# ninja log v5
+0	2118	1660656715301551944	CMakeFiles/basic.dir/src/basic.cpp.o	391aaa785300ef8c
+2119	2472	1660656715653550401	devel/lib/basic/basic	864634600888fee9
+2	2176	1660717373743387965	CMakeFiles/basic.dir/src/image.cpp.o	fb3c5901eeb068eb
+2	2233	1660717373799388139	CMakeFiles/basic.dir/src/basic.cpp.o	391aaa785300ef8c
+2233	2580	1660717374147389224	devel/lib/basic/basic	6cb58f2f2f666d55
