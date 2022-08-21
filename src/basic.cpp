@@ -13,16 +13,19 @@ int main (int argc, char** argv) {
     ros::NodeHandle n; // 创建node控制句柄
     image_transport::ImageTransport it(n); //创建图像传输控制句柄
 
+    ros::Subscriber cam_info_suber = n.subscribe("airsim_node/drone_1/front_center/Scene/camera_info", 1, cam_info_cb);// camerainfo
+
     image_transport::Subscriber front_View_suber = it.subscribe("airsim_node/drone_1/front_center/Scene", 1, front_view_cb);
-    image_transport::Subscriber front_depth_suber = it.subscribe("airsim_node/drone_1/front_center/depth_perspective", 1, front_depth_cb);
+    image_transport::Subscriber front_depth_suber = it.subscribe("airsim_node/drone_1/front_center/DepthPerspective", 1, front_depth_cb);
 
 
     ros::Rate loop_rate(50);
     while (ros::ok()) {
-
 #ifdef TIME_RECORD_IMAGE_PROCESS
         ROS_INFO("process the image for %.2lf ms", proc_time);
 #endif
+
+
         ros::spinOnce();
         loop_rate.sleep();
     }
