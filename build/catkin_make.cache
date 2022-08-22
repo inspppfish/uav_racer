@@ -1,0 +1,2 @@
+airsim_ros_pkgs:basic:keybd_ctl
+-DCATKIN_DEVEL_PREFIX=/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/devel -DCMAKE_INSTALL_PREFIX=/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/install -G Unix Makefiles
