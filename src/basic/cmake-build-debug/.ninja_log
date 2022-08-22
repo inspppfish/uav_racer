@@ -1,0 +1,17 @@
+# ninja log v5
+3	3430	1661091850370882930	CMakeFiles/basic.dir/src/image.cpp.o	2540fc00d91ee1d
+3	3499	1661091850442884392	CMakeFiles/basic.dir/src/basic.cpp.o	68a832c9f0bf87b9
+3	3409	1661091850350882525	CMakeFiles/basic.dir/src/position_pid.cpp.o	688f07845870f66d
+3499	3891	1661091850830892267	devel/lib/basic/basic	1d79e6dd0e20bc5f
+3	3152	1661092403826229491	CMakeFiles/basic.dir/src/img2cam3d.cpp.o	9ce19ce784655dc8
+2	3157	1661092403834229558	CMakeFiles/basic.dir/src/image.cpp.o	2540fc00d91ee1d
+2	3183	1661092403858229759	CMakeFiles/basic.dir/src/position_pid.cpp.o	688f07845870f66d
+2	3164	1661092631479863627	CMakeFiles/basic.dir/src/position_pid.cpp.o	688f07845870f66d
+2	3187	1661092631499863750	CMakeFiles/basic.dir/src/image.cpp.o	2540fc00d91ee1d
+2	3216	1661092631531863947	CMakeFiles/basic.dir/src/img2cam3d.cpp.o	9ce19ce784655dc8
+2	3304	1661094195393237869	CMakeFiles/basic.dir/src/img2cam3d.cpp.o	9ce19ce784655dc8
+2	3350	1661094195437237030	CMakeFiles/basic.dir/src/image.cpp.o	2540fc00d91ee1d
+2	3381	1661094195469236420	CMakeFiles/basic.dir/src/position_pid.cpp.o	688f07845870f66d
+2	3564	1661094195653232911	CMakeFiles/basic.dir/src/basic.cpp.o	68a832c9f0bf87b9
+3	2891	1661094291199502528	CMakeFiles/basic.dir/src/img2cam3d.cpp.o	9ce19ce784655dc8
+2891	3219	1661094291523496953	devel/lib/basic/basic	ac3f02ba96807111
