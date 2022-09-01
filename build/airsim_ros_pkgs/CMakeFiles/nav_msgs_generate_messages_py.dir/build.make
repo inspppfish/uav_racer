@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src
+CMAKE_SOURCE_DIR = /home/airvoltex/mysource/uav_racer/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build
+CMAKE_BINARY_DIR = /home/airvoltex/mysource/uav_racer/build
 
 # Utility rule file for nav_msgs_generate_messages_py.
 
@@ -63,10 +63,10 @@ airsim_ros_pkgs/CMakeFiles/nav_msgs_generate_messages_py.dir/build: nav_msgs_gen
 .PHONY : airsim_ros_pkgs/CMakeFiles/nav_msgs_generate_messages_py.dir/build
 
 airsim_ros_pkgs/CMakeFiles/nav_msgs_generate_messages_py.dir/clean:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/airsim_ros_pkgs && $(CMAKE_COMMAND) -P CMakeFiles/nav_msgs_generate_messages_py.dir/cmake_clean.cmake
+	cd /home/airvoltex/mysource/uav_racer/build/airsim_ros_pkgs && $(CMAKE_COMMAND) -P CMakeFiles/nav_msgs_generate_messages_py.dir/cmake_clean.cmake
 .PHONY : airsim_ros_pkgs/CMakeFiles/nav_msgs_generate_messages_py.dir/clean
 
 airsim_ros_pkgs/CMakeFiles/nav_msgs_generate_messages_py.dir/depend:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/airsim_ros_pkgs /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/airsim_ros_pkgs /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/airsim_ros_pkgs/CMakeFiles/nav_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/airvoltex/mysource/uav_racer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/airvoltex/mysource/uav_racer/src /home/airvoltex/mysource/uav_racer/src/airsim_ros_pkgs /home/airvoltex/mysource/uav_racer/build /home/airvoltex/mysource/uav_racer/build/airsim_ros_pkgs /home/airvoltex/mysource/uav_racer/build/airsim_ros_pkgs/CMakeFiles/nav_msgs_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : airsim_ros_pkgs/CMakeFiles/nav_msgs_generate_messages_py.dir/depend
 

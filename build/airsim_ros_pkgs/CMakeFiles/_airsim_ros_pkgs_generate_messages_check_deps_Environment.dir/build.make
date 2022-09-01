@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src
+CMAKE_SOURCE_DIR = /home/airvoltex/mysource/uav_racer/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build
+CMAKE_BINARY_DIR = /home/airvoltex/mysource/uav_racer/build
 
 # Utility rule file for _airsim_ros_pkgs_generate_messages_check_deps_Environment.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/bui
 include airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment.dir/progress.make
 
 airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/airsim_ros_pkgs && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py airsim_ros_pkgs /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/airsim_ros_pkgs/msg/Environment.msg geometry_msgs/Vector3:geographic_msgs/GeoPoint:std_msgs/Header
+	cd /home/airvoltex/mysource/uav_racer/build/airsim_ros_pkgs && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py airsim_ros_pkgs /home/airvoltex/mysource/uav_racer/src/airsim_ros_pkgs/msg/Environment.msg geographic_msgs/GeoPoint:geometry_msgs/Vector3:std_msgs/Header
 
 _airsim_ros_pkgs_generate_messages_check_deps_Environment: airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment
 _airsim_ros_pkgs_generate_messages_check_deps_Environment: airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment.dir/build.make
@@ -67,10 +67,10 @@ airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environ
 .PHONY : airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment.dir/build
 
 airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment.dir/clean:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/airsim_ros_pkgs && $(CMAKE_COMMAND) -P CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment.dir/cmake_clean.cmake
+	cd /home/airvoltex/mysource/uav_racer/build/airsim_ros_pkgs && $(CMAKE_COMMAND) -P CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment.dir/cmake_clean.cmake
 .PHONY : airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment.dir/clean
 
 airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment.dir/depend:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/airsim_ros_pkgs /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/airsim_ros_pkgs /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/airvoltex/mysource/uav_racer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/airvoltex/mysource/uav_racer/src /home/airvoltex/mysource/uav_racer/src/airsim_ros_pkgs /home/airvoltex/mysource/uav_racer/build /home/airvoltex/mysource/uav_racer/build/airsim_ros_pkgs /home/airvoltex/mysource/uav_racer/build/airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_Environment.dir/depend
 

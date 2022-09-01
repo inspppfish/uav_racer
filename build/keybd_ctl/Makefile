@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src
+CMAKE_SOURCE_DIR = /home/airvoltex/mysource/uav_racer/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build
+CMAKE_BINARY_DIR = /home/airvoltex/mysource/uav_racer/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -137,14 +137,14 @@ test/fast: test
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/CMakeFiles /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/keybd_ctl/CMakeFiles/progress.marks
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(MAKE) -f CMakeFiles/Makefile2 keybd_ctl/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/CMakeFiles 0
+	cd /home/airvoltex/mysource/uav_racer/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/airvoltex/mysource/uav_racer/build/CMakeFiles /home/airvoltex/mysource/uav_racer/build/keybd_ctl/CMakeFiles/progress.marks
+	cd /home/airvoltex/mysource/uav_racer/build && $(MAKE) -f CMakeFiles/Makefile2 keybd_ctl/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/airvoltex/mysource/uav_racer/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(MAKE) -f CMakeFiles/Makefile2 keybd_ctl/clean
+	cd /home/airvoltex/mysource/uav_racer/build && $(MAKE) -f CMakeFiles/Makefile2 keybd_ctl/clean
 .PHONY : clean
 
 # The main clean target
@@ -154,22 +154,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(MAKE) -f CMakeFiles/Makefile2 keybd_ctl/preinstall
+	cd /home/airvoltex/mysource/uav_racer/build && $(MAKE) -f CMakeFiles/Makefile2 keybd_ctl/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(MAKE) -f CMakeFiles/Makefile2 keybd_ctl/preinstall
+	cd /home/airvoltex/mysource/uav_racer/build && $(MAKE) -f CMakeFiles/Makefile2 keybd_ctl/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/airvoltex/mysource/uav_racer/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 keybd_ctl/CMakeFiles/keybd_ctl.dir/rule:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(MAKE) -f CMakeFiles/Makefile2 keybd_ctl/CMakeFiles/keybd_ctl.dir/rule
+	cd /home/airvoltex/mysource/uav_racer/build && $(MAKE) -f CMakeFiles/Makefile2 keybd_ctl/CMakeFiles/keybd_ctl.dir/rule
 .PHONY : keybd_ctl/CMakeFiles/keybd_ctl.dir/rule
 
 # Convenience name for target.
@@ -179,7 +179,7 @@ keybd_ctl: keybd_ctl/CMakeFiles/keybd_ctl.dir/rule
 
 # fast build rule for target.
 keybd_ctl/fast:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(MAKE) -f keybd_ctl/CMakeFiles/keybd_ctl.dir/build.make keybd_ctl/CMakeFiles/keybd_ctl.dir/build
+	cd /home/airvoltex/mysource/uav_racer/build && $(MAKE) -f keybd_ctl/CMakeFiles/keybd_ctl.dir/build.make keybd_ctl/CMakeFiles/keybd_ctl.dir/build
 .PHONY : keybd_ctl/fast
 
 src/keybd_ctl_node.o: src/keybd_ctl_node.cpp.o
@@ -188,7 +188,7 @@ src/keybd_ctl_node.o: src/keybd_ctl_node.cpp.o
 
 # target to build an object file
 src/keybd_ctl_node.cpp.o:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(MAKE) -f keybd_ctl/CMakeFiles/keybd_ctl.dir/build.make keybd_ctl/CMakeFiles/keybd_ctl.dir/src/keybd_ctl_node.cpp.o
+	cd /home/airvoltex/mysource/uav_racer/build && $(MAKE) -f keybd_ctl/CMakeFiles/keybd_ctl.dir/build.make keybd_ctl/CMakeFiles/keybd_ctl.dir/src/keybd_ctl_node.cpp.o
 .PHONY : src/keybd_ctl_node.cpp.o
 
 src/keybd_ctl_node.i: src/keybd_ctl_node.cpp.i
@@ -197,7 +197,7 @@ src/keybd_ctl_node.i: src/keybd_ctl_node.cpp.i
 
 # target to preprocess a source file
 src/keybd_ctl_node.cpp.i:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(MAKE) -f keybd_ctl/CMakeFiles/keybd_ctl.dir/build.make keybd_ctl/CMakeFiles/keybd_ctl.dir/src/keybd_ctl_node.cpp.i
+	cd /home/airvoltex/mysource/uav_racer/build && $(MAKE) -f keybd_ctl/CMakeFiles/keybd_ctl.dir/build.make keybd_ctl/CMakeFiles/keybd_ctl.dir/src/keybd_ctl_node.cpp.i
 .PHONY : src/keybd_ctl_node.cpp.i
 
 src/keybd_ctl_node.s: src/keybd_ctl_node.cpp.s
@@ -206,7 +206,7 @@ src/keybd_ctl_node.s: src/keybd_ctl_node.cpp.s
 
 # target to generate assembly for a file
 src/keybd_ctl_node.cpp.s:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(MAKE) -f keybd_ctl/CMakeFiles/keybd_ctl.dir/build.make keybd_ctl/CMakeFiles/keybd_ctl.dir/src/keybd_ctl_node.cpp.s
+	cd /home/airvoltex/mysource/uav_racer/build && $(MAKE) -f keybd_ctl/CMakeFiles/keybd_ctl.dir/build.make keybd_ctl/CMakeFiles/keybd_ctl.dir/src/keybd_ctl_node.cpp.s
 .PHONY : src/keybd_ctl_node.cpp.s
 
 # Help Target
@@ -237,6 +237,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/airvoltex/mysource/uav_racer/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

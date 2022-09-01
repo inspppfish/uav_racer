@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/keybd_ctl/src/keybd_ctl_node.cpp" "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/keybd_ctl/CMakeFiles/keybd_ctl.dir/src/keybd_ctl_node.cpp.o"
+  "/home/airvoltex/mysource/uav_racer/src/keybd_ctl/src/keybd_ctl_node.cpp" "/home/airvoltex/mysource/uav_racer/build/keybd_ctl/CMakeFiles/keybd_ctl.dir/src/keybd_ctl_node.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -17,7 +17,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/devel/include"
+  "/home/airvoltex/mysource/uav_racer/devel/include"
   "/opt/ros/noetic/include"
   "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   )

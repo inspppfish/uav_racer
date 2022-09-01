@@ -1,8 +1,8 @@
-# Install script for directory: /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/basic
+# Install script for directory: /home/airvoltex/mysource/uav_racer/src/basic
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/install")
+  set(CMAKE_INSTALL_PREFIX "/home/airvoltex/mysource/uav_racer/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,17 +38,17 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/basic/catkin_generated/installspace/basic.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/airvoltex/mysource/uav_racer/build/basic/catkin_generated/installspace/basic.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/basic/cmake" TYPE FILE FILES
-    "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/basic/catkin_generated/installspace/basicConfig.cmake"
-    "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/basic/catkin_generated/installspace/basicConfig-version.cmake"
+    "/home/airvoltex/mysource/uav_racer/build/basic/catkin_generated/installspace/basicConfig.cmake"
+    "/home/airvoltex/mysource/uav_racer/build/basic/catkin_generated/installspace/basicConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/basic" TYPE FILE FILES "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/basic/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/basic" TYPE FILE FILES "/home/airvoltex/mysource/uav_racer/src/basic/package.xml")
 endif()
 

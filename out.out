@@ -1,0 +1,297 @@
+[0m[ INFO] [1662045681.724772173]: Planner start![0m
+[0m[ INFO] [1662045681.738662073]: Initialize reference point[0m
+[0m[ INFO] [1662045681.739341129]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045681.772939433]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045681.806127363]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045681.839460067]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045681.872738893]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045681.906149560]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045681.939355512]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045681.972820760]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045681.973419946]: updated real_pose[0m
+[0m[ INFO] [1662045682.006098427]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.006707637]: updated real_pose[0m
+[0m[ INFO] [1662045682.039405977]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.040321514]: updated real_pose[0m
+[0m[ INFO] [1662045682.072724226]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.073363619]: updated real_pose[0m
+[0m[ INFO] [1662045682.106171614]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.139411162]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.140017599]: updated real_pose[0m
+[0m[ INFO] [1662045682.173005949]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.174872550]: updated real_pose[0m
+[0m[ INFO] [1662045682.206197762]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.207247706]: updated real_pose[0m
+[0m[ INFO] [1662045682.239434381]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.240078875]: updated real_pose[0m
+[0m[ INFO] [1662045682.272847884]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.273422048]: updated real_pose[0m
+[0m[ INFO] [1662045682.306185986]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.307255517]: updated real_pose[0m
+[0m[ INFO] [1662045682.339403276]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.372739415]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.373380101]: updated real_pose[0m
+[0m[ INFO] [1662045682.406065963]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.406731440]: updated real_pose[0m
+[0m[ INFO] [1662045682.439405196]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.472768418]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.473253886]: updated real_pose[0m
+[0m[ INFO] [1662045682.506100393]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.506721933]: updated real_pose[0m
+[0m[ INFO] [1662045682.539423259]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.540069001]: updated real_pose[0m
+[0m[ INFO] [1662045682.572726425]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.606057517]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.606673884]: updated real_pose[0m
+[0m[ INFO] [1662045682.639420065]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.639980110]: updated real_pose[0m
+[0m[ INFO] [1662045682.672728804]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.673286877]: updated real_pose[0m
+[0m[ INFO] [1662045682.706065793]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.706731103]: updated real_pose[0m
+[0m[ INFO] [1662045682.739410057]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.739954058]: updated real_pose[0m
+[0m[ INFO] [1662045682.773035111]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.806123489]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.806842725]: updated real_pose[0m
+[0m[ INFO] [1662045682.839491138]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.872778993]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.873398826]: updated real_pose[0m
+[0m[ INFO] [1662045682.906067034]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.907096786]: updated real_pose[0m
+[0m[ INFO] [1662045682.939705426]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.972780521]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045682.973536311]: updated real_pose[0m
+[0m[ INFO] [1662045683.006151904]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.006764797]: updated real_pose[0m
+[0m[ INFO] [1662045683.039430987]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.040072200]: updated real_pose[0m
+[0m[ INFO] [1662045683.072752923]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.073354831]: updated real_pose[0m
+[0m[ INFO] [1662045683.106059751]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.106672725]: updated real_pose[0m
+[0m[ INFO] [1662045683.139653317]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.143494947]: updated real_pose[0m
+[0m[ INFO] [1662045683.172773582]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.206087377]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.206690939]: updated real_pose[0m
+[0m[ INFO] [1662045683.239417087]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.239972883]: updated real_pose[0m
+[0m[ INFO] [1662045683.272742817]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.306162808]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.306732861]: updated real_pose[0m
+[0m[ INFO] [1662045683.339407984]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.339971973]: updated real_pose[0m
+[0m[ INFO] [1662045683.372732236]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.373211321]: updated real_pose[0m
+[0m[ INFO] [1662045683.406096373]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.439400165]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.439991599]: updated real_pose[0m
+[0m[ INFO] [1662045683.473079423]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.476960826]: updated real_pose[0m
+[0m[ INFO] [1662045683.506121208]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.506751757]: updated real_pose[0m
+[0m[ INFO] [1662045683.539662721]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.541503885]: updated real_pose[0m
+[0m[ INFO] [1662045683.572811028]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.573461429]: updated real_pose[0m
+[0m[ INFO] [1662045683.606069550]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.606496842]: updated real_pose[0m
+[0m[ INFO] [1662045683.639434723]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.672769087]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.673345497]: updated real_pose[0m
+[0m[ INFO] [1662045683.706084455]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.707353187]: updated real_pose[0m
+[0m[ INFO] [1662045683.739687163]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.772854642]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.773812788]: updated real_pose[0m
+[0m[ INFO] [1662045683.806125734]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.808221474]: updated real_pose[0m
+[0m[ INFO] [1662045683.839452506]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.840229479]: updated real_pose[0m
+[0m[ INFO] [1662045683.872795418]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.873561104]: updated real_pose[0m
+[0m[ INFO] [1662045683.906088521]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.906683575]: updated real_pose[0m
+[0m[ INFO] [1662045683.939389906]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045683.939812287]: updated real_pose[0m
+[0m[ INFO] [1662045683.972726367]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045684.006163056]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045684.006761041]: updated real_pose[0m
+[0m[ INFO] [1662045684.039386686]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045684.039850560]: updated real_pose[0m
+[0m[ INFO] [1662045684.072820094]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045684.106162100]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045684.106762899]: updated real_pose[0m
+[0m[ INFO] [1662045684.139447953]: vel: x:0.00 y:0.00 z:0.00[0m
+[0m[ INFO] [1662045684.140256824]: updated real_pose[0m
+[0m[ INFO] [1662045684.172741170]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.172757430]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.173323857]: updated real_pose[0m
+[0m[ INFO] [1662045684.206078364]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.206087343]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.206814588]: updated real_pose[0m
+[0m[ INFO] [1662045684.239406193]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.239415351]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.240613209]: updated real_pose[0m
+[0m[ INFO] [1662045684.272826482]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.272835021]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.273358290]: updated real_pose[0m
+[0m[ INFO] [1662045684.306151761]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.306160829]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.339628850]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.339666789]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.341546056]: updated real_pose[0m
+[0m[ INFO] [1662045684.372787897]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.372805522]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.373571538]: updated real_pose[0m
+[0m[ INFO] [1662045684.406110339]: index: 0; distance: 24.43[0m
+[0m[ INFO] [1662045684.406129516]: index: 1; distance: 0.51[0m
+[0m[ INFO] [1662045684.406137052]: index: 2; distance: 31.43[0m
+[0m[ INFO] [1662045684.406142326]: index: 3; distance: 58.53[0m
+[0m[ INFO] [1662045684.406147181]: index: 4; distance: 73.47[0m
+[0m[ INFO] [1662045684.406151841]: index: 5; distance: 81.57[0m
+[0m[ INFO] [1662045684.406157010]: index: 6; distance: 101.68[0m
+[0m[ INFO] [1662045684.406164084]: index: 7; distance: 119.73[0m
+[0m[ INFO] [1662045684.406169226]: updated 1 waypoint[0m
+[0m[ INFO] [1662045684.406178020]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.406184465]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.407428505]: updated real_pose[0m
+[0m[ INFO] [1662045684.439387553]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.439396339]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.472716222]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.472728100]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.473799394]: updated real_pose[0m
+[0m[ INFO] [1662045684.506045566]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.506054151]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.539381465]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.539390335]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.539981797]: updated real_pose[0m
+[0m[ INFO] [1662045684.573008141]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.573045260]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.574863052]: updated real_pose[0m
+[0m[ INFO] [1662045684.606122333]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.606137489]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.606860404]: updated real_pose[0m
+[0m[ INFO] [1662045684.639479364]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.639488082]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.640112187]: updated real_pose[0m
+[0m[ INFO] [1662045684.672757869]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.672767380]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.673451631]: updated real_pose[0m
+[0m[ INFO] [1662045684.706082861]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.706094865]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.707100919]: updated real_pose[0m
+[0m[ INFO] [1662045684.739411462]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.739422919]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.772742392]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.772759017]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.773349641]: updated real_pose[0m
+[0m[ INFO] [1662045684.806081749]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.806090560]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.806694683]: updated real_pose[0m
+[0m[ INFO] [1662045684.839383494]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.839391746]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.872715089]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.872726059]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.873307468]: updated real_pose[0m
+[0m[ INFO] [1662045684.906088203]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.906097949]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.906694706]: updated real_pose[0m
+[0m[ INFO] [1662045684.939403139]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.939412276]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045684.939940909]: updated real_pose[0m
+[0m[ INFO] [1662045684.972741961]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045684.972759667]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.006151244]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.006159960]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.006731472]: updated real_pose[0m
+[0m[ INFO] [1662045685.039401881]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.039410145]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.039882905]: updated real_pose[0m
+[0m[ INFO] [1662045685.072744151]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.072761626]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.106151426]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.106159802]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.106759041]: updated real_pose[0m
+[0m[ INFO] [1662045685.139396916]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.139405134]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.139836013]: updated real_pose[0m
+[0m[ INFO] [1662045685.172715846]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.172724104]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.173313672]: updated real_pose[0m
+[0m[ INFO] [1662045685.206149814]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.206158342]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.206762702]: updated real_pose[0m
+[0m[ INFO] [1662045685.239619074]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.239656361]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.272776751]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.272796438]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.273510881]: updated real_pose[0m
+[0m[ INFO] [1662045685.306092732]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.306104315]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.306773411]: updated real_pose[0m
+[0m[ INFO] [1662045685.339478349]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.339489336]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.372791338]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.372809605]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.373660537]: updated real_pose[0m
+[0m[ INFO] [1662045685.406091360]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.406101230]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.439481105]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.439489602]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.440116802]: updated real_pose[0m
+[0m[ INFO] [1662045685.472742296]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.472760568]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.473157497]: updated real_pose[0m
+[0m[ INFO] [1662045685.506080740]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.506089530]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.506698803]: updated real_pose[0m
+[0m[ INFO] [1662045685.539481887]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.539492601]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.540055649]: updated real_pose[0m
+[0m[ INFO] [1662045685.572753783]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.572767040]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.573341585]: updated real_pose[0m
+[0m[ INFO] [1662045685.606078279]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.606087021]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.606704417]: updated real_pose[0m
+[0m[ INFO] [1662045685.639593610]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.639630756]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.672890626]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.672921804]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.674380219]: updated real_pose[0m
+[0m[ INFO] [1662045685.706085197]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.706096307]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.706669473]: updated real_pose[0m
+[0m[ INFO] [1662045685.739397444]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.739407497]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.740110997]: updated real_pose[0m
+[0m[ INFO] [1662045685.772702801]: index: 0; distance: 24.50[0m
+[0m[ INFO] [1662045685.772725987]: index: 1; distance: 0.07[0m
+[0m[ INFO] [1662045685.772733504]: index: 2; distance: 31.37[0m
+[0m[ INFO] [1662045685.772740002]: index: 3; distance: 58.48[0m
+[0m[ INFO] [1662045685.772745983]: index: 4; distance: 73.41[0m
+[0m[ INFO] [1662045685.772759276]: index: 5; distance: 81.50[0m
+[0m[ INFO] [1662045685.772765911]: index: 6; distance: 101.61[0m
+[0m[ INFO] [1662045685.772771817]: index: 7; distance: 119.66[0m
+[0m[ INFO] [1662045685.772778190]: updated 1 waypoint[0m
+[0m[ INFO] [1662045685.772789885]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.772800353]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.773460978]: updated real_pose[0m
+[0m[ INFO] [1662045685.806049913]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.806058703]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.806531251]: updated real_pose[0m
+[0m[ INFO] [1662045685.839411818]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.839423278]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.840018559]: updated real_pose[0m
+[0m[ INFO] [1662045685.872817231]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.872825813]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.906180176]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.906213645]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.909293441]: updated real_pose[0m
+[0m[ INFO] [1662045685.939450321]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.939462043]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.972744179]: Approaching point distance 15.94[0m
+[0m[ INFO] [1662045685.972764161]: vel: x:-2.91 y:0.66 z:-0.26[0m
+[0m[ INFO] [1662045685.973512100]: updated real_pose[0m

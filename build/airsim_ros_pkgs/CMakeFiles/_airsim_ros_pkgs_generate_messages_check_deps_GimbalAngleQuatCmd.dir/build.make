@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src
+CMAKE_SOURCE_DIR = /home/airvoltex/mysource/uav_racer/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build
+CMAKE_BINARY_DIR = /home/airvoltex/mysource/uav_racer/build
 
 # Utility rule file for _airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/bui
 include airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.dir/progress.make
 
 airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/airsim_ros_pkgs && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py airsim_ros_pkgs /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/airsim_ros_pkgs/msg/GimbalAngleQuatCmd.msg std_msgs/Header:geometry_msgs/Quaternion
+	cd /home/airvoltex/mysource/uav_racer/build/airsim_ros_pkgs && ../catkin_generated/env_cached.sh /usr/bin/python3 /opt/ros/noetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py airsim_ros_pkgs /home/airvoltex/mysource/uav_racer/src/airsim_ros_pkgs/msg/GimbalAngleQuatCmd.msg geometry_msgs/Quaternion:std_msgs/Header
 
 _airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd: airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd
 _airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd: airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.dir/build.make
@@ -67,10 +67,10 @@ airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalA
 .PHONY : airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.dir/build
 
 airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.dir/clean:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/airsim_ros_pkgs && $(CMAKE_COMMAND) -P CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.dir/cmake_clean.cmake
+	cd /home/airvoltex/mysource/uav_racer/build/airsim_ros_pkgs && $(CMAKE_COMMAND) -P CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.dir/cmake_clean.cmake
 .PHONY : airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.dir/clean
 
 airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.dir/depend:
-	cd /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/airsim_ros_pkgs /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/airsim_ros_pkgs /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/airvoltex/mysource/uav_racer/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/airvoltex/mysource/uav_racer/src /home/airvoltex/mysource/uav_racer/src/airsim_ros_pkgs /home/airvoltex/mysource/uav_racer/build /home/airvoltex/mysource/uav_racer/build/airsim_ros_pkgs /home/airvoltex/mysource/uav_racer/build/airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : airsim_ros_pkgs/CMakeFiles/_airsim_ros_pkgs_generate_messages_check_deps_GimbalAngleQuatCmd.dir/depend
 

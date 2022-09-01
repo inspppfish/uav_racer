@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "keybd_ctl"
-PROJECT_SPACE_DIR = "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/install"
+PROJECT_SPACE_DIR = "/home/airvoltex/mysource/uav_racer/install"
 PROJECT_VERSION = "0.0.0"

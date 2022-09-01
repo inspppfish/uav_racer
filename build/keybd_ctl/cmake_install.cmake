@@ -1,8 +1,8 @@
-# Install script for directory: /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/keybd_ctl
+# Install script for directory: /home/airvoltex/mysource/uav_racer/src/keybd_ctl
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/install")
+  set(CMAKE_INSTALL_PREFIX "/home/airvoltex/mysource/uav_racer/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,17 +38,17 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/keybd_ctl/catkin_generated/installspace/keybd_ctl.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/airvoltex/mysource/uav_racer/build/keybd_ctl/catkin_generated/installspace/keybd_ctl.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/keybd_ctl/cmake" TYPE FILE FILES
-    "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/keybd_ctl/catkin_generated/installspace/keybd_ctlConfig.cmake"
-    "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/keybd_ctl/catkin_generated/installspace/keybd_ctlConfig-version.cmake"
+    "/home/airvoltex/mysource/uav_racer/build/keybd_ctl/catkin_generated/installspace/keybd_ctlConfig.cmake"
+    "/home/airvoltex/mysource/uav_racer/build/keybd_ctl/catkin_generated/installspace/keybd_ctlConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/keybd_ctl" TYPE FILE FILES "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/keybd_ctl/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/keybd_ctl" TYPE FILE FILES "/home/airvoltex/mysource/uav_racer/src/keybd_ctl/package.xml")
 endif()
 

@@ -7,6 +7,6 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/keybd_ctl/cmake-build-debug/devel:$CMAKE_PREFIX_PATH"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/keybd_ctl/cmake-build-debug/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/keybd_ctl:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/airvoltex/mysource/uav_racer/src/keybd_ctl/cmake-build-debug/devel:$CMAKE_PREFIX_PATH"
+export ROSLISP_PACKAGE_DIRECTORIES='/home/airvoltex/mysource/uav_racer/src/keybd_ctl/cmake-build-debug/devel/share/common-lisp'
+export ROS_PACKAGE_PATH="/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/keybd_ctl:/home/airvoltex/mysource/uav_racer/src/keybd_ctl:$ROS_PACKAGE_PATH"

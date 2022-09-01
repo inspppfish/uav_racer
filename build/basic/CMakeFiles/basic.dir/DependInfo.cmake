@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/basic/src/basic.cpp" "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/basic/CMakeFiles/basic.dir/src/basic.cpp.o"
-  "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/basic/src/image.cpp" "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/basic/CMakeFiles/basic.dir/src/image.cpp.o"
-  "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/basic/src/img2cam3d.cpp" "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/basic/CMakeFiles/basic.dir/src/img2cam3d.cpp.o"
-  "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/basic/src/position_pid.cpp" "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build/basic/CMakeFiles/basic.dir/src/position_pid.cpp.o"
+  "/home/airvoltex/mysource/uav_racer/src/basic/src/basic.cpp" "/home/airvoltex/mysource/uav_racer/build/basic/CMakeFiles/basic.dir/src/basic.cpp.o"
+  "/home/airvoltex/mysource/uav_racer/src/basic/src/detect.cpp" "/home/airvoltex/mysource/uav_racer/build/basic/CMakeFiles/basic.dir/src/detect.cpp.o"
+  "/home/airvoltex/mysource/uav_racer/src/basic/src/image.cpp" "/home/airvoltex/mysource/uav_racer/build/basic/CMakeFiles/basic.dir/src/image.cpp.o"
+  "/home/airvoltex/mysource/uav_racer/src/basic/src/img2cam3d.cpp" "/home/airvoltex/mysource/uav_racer/build/basic/CMakeFiles/basic.dir/src/img2cam3d.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -20,10 +20,11 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/home/airvoltex/mysource/uav_racer/devel/include"
   "/opt/ros/noetic/include"
   "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/usr/include/eigen3"
-  "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/basic/include"
+  "/home/airvoltex/mysource/uav_racer/src/basic/include"
   "/usr/include/opencv4"
   )
 

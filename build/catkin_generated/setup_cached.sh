@@ -7,4 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export PWD='/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/build'
+export PWD='/home/airvoltex/mysource/uav_racer/build'

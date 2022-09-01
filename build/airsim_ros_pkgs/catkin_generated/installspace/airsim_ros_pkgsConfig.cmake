@@ -67,14 +67,14 @@ set(airsim_ros_pkgs_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(airsim_ros_pkgs_SOURCE_PREFIX /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/airsim_ros_pkgs)
-  set(airsim_ros_pkgs_DEVEL_PREFIX /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/devel)
+  set(airsim_ros_pkgs_SOURCE_PREFIX /home/airvoltex/mysource/uav_racer/src/airsim_ros_pkgs)
+  set(airsim_ros_pkgs_DEVEL_PREFIX /home/airvoltex/mysource/uav_racer/devel)
   set(airsim_ros_pkgs_INSTALL_PREFIX "")
   set(airsim_ros_pkgs_PREFIX ${airsim_ros_pkgs_DEVEL_PREFIX})
 else()
   set(airsim_ros_pkgs_SOURCE_PREFIX "")
   set(airsim_ros_pkgs_DEVEL_PREFIX "")
-  set(airsim_ros_pkgs_INSTALL_PREFIX /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/install)
+  set(airsim_ros_pkgs_INSTALL_PREFIX /home/airvoltex/mysource/uav_racer/install)
   set(airsim_ros_pkgs_PREFIX ${airsim_ros_pkgs_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/install/lib;/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /home/airvoltex/mysource/uav_racer/install/lib;/home/airvoltex/mysource/uav_racer/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

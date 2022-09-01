@@ -1,4 +1,4 @@
-prefix=/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/install
+prefix=/home/airvoltex/mysource/uav_racer/install
 
 Name: airsim_ros_pkgs
 Description: Description of airsim_ros_pkgs

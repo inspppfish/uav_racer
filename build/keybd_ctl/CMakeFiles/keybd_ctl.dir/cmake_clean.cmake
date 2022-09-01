@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/devel/lib/keybd_ctl/keybd_ctl"
-  "/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/devel/lib/keybd_ctl/keybd_ctl.pdb"
+  "/home/airvoltex/mysource/uav_racer/devel/lib/keybd_ctl/keybd_ctl"
+  "/home/airvoltex/mysource/uav_racer/devel/lib/keybd_ctl/keybd_ctl.pdb"
   "CMakeFiles/keybd_ctl.dir/src/keybd_ctl_node.cpp.o"
 )
 

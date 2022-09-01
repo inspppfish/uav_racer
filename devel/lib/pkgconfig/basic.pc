@@ -1,8 +1,8 @@
-prefix=/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/devel
+prefix=/home/airvoltex/mysource/uav_racer/devel
 
 Name: basic
 Description: Description of basic
 Version: 0.0.0
 Cflags: 
 Libs: -L${prefix}/lib 
-Requires: roscpp rospy std_msgs
+Requires: 

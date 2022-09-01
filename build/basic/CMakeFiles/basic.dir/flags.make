@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"basic\"
 
-CXX_INCLUDES = -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/src/basic/include -isystem /usr/include/opencv4 
+CXX_INCLUDES = -I/home/airvoltex/mysource/uav_racer/devel/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/home/airvoltex/mysource/uav_racer/src/basic/include -isystem /usr/include/opencv4 
 

@@ -1,4 +1,4 @@
-prefix=/home/airvoltex/mysource/IntelligentUAVChampionship/myUAV/devel
+prefix=/home/airvoltex/mysource/uav_racer/devel
 
 Name: keybd_ctl
 Description: Description of keybd_ctl
